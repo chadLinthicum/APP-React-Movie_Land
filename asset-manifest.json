@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chadLinthicum/APP-React-Movie_Land_Search/static/css/main.edbadf05.css",
-    "main.js": "/chadLinthicum/APP-React-Movie_Land_Search/static/js/main.0ac403da.js",
-    "static/js/787.28cb0dcd.chunk.js": "/chadLinthicum/APP-React-Movie_Land_Search/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/chadLinthicum/APP-React-Movie_Land_Search/index.html",
-    "static/media/search.svg": "/chadLinthicum/APP-React-Movie_Land_Search/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.edbadf05.css.map": "/chadLinthicum/APP-React-Movie_Land_Search/static/css/main.edbadf05.css.map",
-    "main.0ac403da.js.map": "/chadLinthicum/APP-React-Movie_Land_Search/static/js/main.0ac403da.js.map",
-    "787.28cb0dcd.chunk.js.map": "/chadLinthicum/APP-React-Movie_Land_Search/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/APP-React-Movie_Land_Search/static/css/main.edbadf05.css",
+    "main.js": "/APP-React-Movie_Land_Search/static/js/main.1f30e8ea.js",
+    "static/js/787.28cb0dcd.chunk.js": "/APP-React-Movie_Land_Search/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/APP-React-Movie_Land_Search/index.html",
+    "static/media/search.svg": "/APP-React-Movie_Land_Search/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.edbadf05.css.map": "/APP-React-Movie_Land_Search/static/css/main.edbadf05.css.map",
+    "main.1f30e8ea.js.map": "/APP-React-Movie_Land_Search/static/js/main.1f30e8ea.js.map",
+    "787.28cb0dcd.chunk.js.map": "/APP-React-Movie_Land_Search/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edbadf05.css",
-    "static/js/main.0ac403da.js"
+    "static/js/main.1f30e8ea.js"
   ]
 }
