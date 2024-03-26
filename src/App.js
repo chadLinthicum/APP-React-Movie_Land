@@ -3,7 +3,7 @@ import { useState, useEffect } from "react"; //useState is a hook but can called
 import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com?apikey=bcfa863f";
+const API_URL = "https://www.omdbapi.com?apikey=bcfa863f";
 
 const App = () => {
   const [movies, setMovies] = useState([]);
@@ -22,7 +22,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>MovieLand</h1>
+      <h1>Chad's Movie Land</h1>
 
       <div className="search">
         <input
